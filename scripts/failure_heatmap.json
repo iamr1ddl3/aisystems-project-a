@@ -1,0 +1,209 @@
+{
+  "heatmap": {
+    "account": {
+      "easy": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 2
+      },
+      "medium": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "business": {
+      "easy": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      },
+      "medium": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 6
+      },
+      "hard": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 2
+      }
+    },
+    "membership": {
+      "easy": {
+        "avg_score": 4.5,
+        "pct": 90.0,
+        "n": 4
+      },
+      "medium": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 1
+      },
+      "hard": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 1
+      }
+    },
+    "orders": {
+      "easy": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "medium": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "payments": {
+      "easy": {
+        "avg_score": 4.5,
+        "pct": 90.0,
+        "n": 2
+      },
+      "medium": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "products": {
+      "easy": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 4
+      },
+      "medium": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 3
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "promotions": {
+      "easy": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      },
+      "medium": {
+        "avg_score": 4.67,
+        "pct": 93.3,
+        "n": 3
+      },
+      "hard": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 1
+      }
+    },
+    "returns": {
+      "easy": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 3
+      },
+      "medium": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "hard": {
+        "avg_score": 4.5,
+        "pct": 90.0,
+        "n": 2
+      }
+    },
+    "rewards": {
+      "easy": {
+        "avg_score": 4.5,
+        "pct": 90.0,
+        "n": 2
+      },
+      "medium": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 2
+      },
+      "hard": {
+        "avg_score": 4.0,
+        "pct": 80.0,
+        "n": 1
+      }
+    },
+    "shipping": {
+      "easy": {
+        "avg_score": 4.6,
+        "pct": 92.0,
+        "n": 5
+      },
+      "medium": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "sustainability": {
+      "easy": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 2
+      },
+      "medium": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "hard": {
+        "avg_score": null,
+        "pct": null,
+        "n": 0
+      }
+    },
+    "warranty": {
+      "easy": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      },
+      "medium": {
+        "avg_score": 4.5,
+        "pct": 90.0,
+        "n": 2
+      },
+      "hard": {
+        "avg_score": 5.0,
+        "pct": 100.0,
+        "n": 1
+      }
+    }
+  },
+  "priorities": []
+}

@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-04-01T14:16:29.308069",
+  "pipeline": "naive_rag",
+  "aggregate": {
+    "num_queries": 55,
+    "hit_rate": 1.0,
+    "mean_mrr": 0.9112,
+    "avg_faithfulness": 4.98,
+    "avg_correctness": 4.45
+  },
+  "per_category": {
+    "account": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 5.0,
+      "composite": 1.0
+    },
+    "business": {
+      "n": 8,
+      "hit_rate": 1.0,
+      "mrr": 0.9167,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.0,
+      "composite": 0.9292
+    },
+    "membership": {
+      "n": 6,
+      "hit_rate": 1.0,
+      "mrr": 0.9167,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.33,
+      "composite": 0.9458
+    },
+    "orders": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.25,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 5.0,
+      "composite": 0.8125
+    },
+    "payments": {
+      "n": 3,
+      "hit_rate": 1.0,
+      "mrr": 0.8333,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.67,
+      "composite": 0.9417
+    },
+    "products": {
+      "n": 7,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.43,
+      "composite": 0.9714
+    },
+    "promotions": {
+      "n": 4,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.5,
+      "composite": 0.975
+    },
+    "returns": {
+      "n": 6,
+      "hit_rate": 1.0,
+      "mrr": 0.5889,
+      "avg_faithfulness": 4.83,
+      "avg_correctness": 4.33,
+      "composite": 0.8556
+    },
+    "rewards": {
+      "n": 5,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.2,
+      "composite": 0.96
+    },
+    "shipping": {
+      "n": 6,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.67,
+      "composite": 0.9833
+    },
+    "sustainability": {
+      "n": 3,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 5.0,
+      "composite": 1.0
+    },
+    "warranty": {
+      "n": 4,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.75,
+      "composite": 0.9875
+    }
+  },
+  "per_difficulty": {
+    "easy": {
+      "n": 26,
+      "hit_rate": 1.0,
+      "mrr": 0.9019,
+      "avg_faithfulness": 4.96,
+      "avg_correctness": 4.5
+    },
+    "medium": {
+      "n": 21,
+      "hit_rate": 1.0,
+      "mrr": 0.9762,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.48
+    },
+    "hard": {
+      "n": 8,
+      "hit_rate": 1.0,
+      "mrr": 0.7708,
+      "avg_faithfulness": 5.0,
+      "avg_correctness": 4.25
+    }
+  },
+  "worst_categories": [
+    "orders",
+    "returns",
+    "business"
+  ]
+}
